@@ -1,0 +1,14 @@
+.buttonOne {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.buttonTwo {
+    background-color: yellow;
+}
+
+
+.buttonOne, .buttonTwo {
+    font-size: 32px;
+}
